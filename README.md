@@ -14,3 +14,15 @@ From TileSwitch/TileSwitch, run:
 Then:
 
     ./game
+
+## How to Play
+<img src="images/1.png">
+
+Select level:
+<img src="images/2.png">
+
+Memorize image:
+<img src="images/3.png">
+
+Put scrambled image to original:
+<img src="images/4.png">
