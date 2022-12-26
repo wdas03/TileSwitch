@@ -1,0 +1,6 @@
+.vs/
+*.sln
+*.db
+*.opendb
+.DS_STORE
+*.o

@@ -1,0 +1,94 @@
+﻿  Game.cpp
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(82): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(83): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(86): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(96): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(106): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(107): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(110): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(120): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(124): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(130): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(131): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(134): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(144): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(148): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(149): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(154): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(155): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(158): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(180): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(192): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(192): warning C4309: 'argument': truncation of constant value
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(195): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(192): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(200): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(207): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(213): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(219): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(225): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(231): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(237): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(269): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(279): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(283): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(371): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(388): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(277): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(288): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(295): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(303): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(311): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(319): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(615): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(668): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(669): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(675): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(676): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(691): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(695): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(698): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(701): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(704): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(707): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(712): warning C4996: 'sf::Text::setColor': was declared deprecated
+  c:\program files\sfml-2.4.0\include\sfml\graphics\text.hpp(177): note: see declaration of 'sf::Text::setColor'
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(834): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(843): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\desktop\william d\tileswitch\tileswitch\game.cpp(853): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  TileSwitch.vcxproj -> C:\Users\iD Student\Desktop\William D\TileSwitch\x64\Debug\TileSwitch.exe
+  TileSwitch.vcxproj -> C:\Users\iD Student\Desktop\William D\TileSwitch\x64\Debug\TileSwitch.pdb (Full PDB)
